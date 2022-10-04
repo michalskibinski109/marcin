@@ -1,3 +1,5 @@
+## [table of content](../readme.md)
+
 # pojecia organizacyjne
 
 - jest przepis przy dobrych ocenach z projektu i labów

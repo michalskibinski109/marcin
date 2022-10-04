@@ -1,3 +1,5 @@
+## [table of content](../readme.md)
+
 # zasady zaliczenia
 
 - kolokwium 17 I 2023

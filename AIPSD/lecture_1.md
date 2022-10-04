@@ -1,4 +1,4 @@
-![table of content](../readme.md)
+## [table of content](../readme.md)
 
 # pojęcia wstępne
 
