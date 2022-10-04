@@ -1,7 +1,5 @@
 # zasady zaliczenia
 
-[]
-
 - kolokwium 17 I 2023
   - pisemne stacjonarnie
   - jedno zagadnienie (otwarte pytanie)

@@ -1,3 +1,5 @@
+![table of content](../readme.md)
+
 # pojęcia wstępne
 
 - **obecnosc obowiazkowa**
@@ -5,8 +7,9 @@
 
 # agenda
 
+![](dikwpng.png)
+
 - MODEL: data information knowledge wisdom (DIKW)
-- ![](dikwpng.png)
 
 ## teoria shannona
 
