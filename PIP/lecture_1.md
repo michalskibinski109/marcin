@@ -9,8 +9,8 @@
 # pojecia wstepne
 
 ## automation hierarchy
+<img src="piramid.png" width="400" />
 
-![](piramid.png)
 
 1. `erp` - zlecenie produckji
 2. `mrp/mrp2` zapewnienie dostaw, zasobow, osob, czasow maszyn
