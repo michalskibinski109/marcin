@@ -20,8 +20,9 @@
 ```plantuml
 @startuml
 
-DataAccess - [First Component]
-[First Component] ..> HTTP : use
+X - [Machine]
+[Machine] - Y
+[Machine] <.. z : noises
 
 @enduml
 
