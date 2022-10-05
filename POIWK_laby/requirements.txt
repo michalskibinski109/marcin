@@ -1,0 +1,6 @@
+tensorflow
+django
+labelme 
+opencv-python
+matplotlib
+albumentations
