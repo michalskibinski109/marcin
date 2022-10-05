@@ -25,7 +25,7 @@
 X - [Machine]
 [Machine] - Y
 [Machine] <.. z : noises
-
+[Machine]
 @enduml
 
 ```
