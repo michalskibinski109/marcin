@@ -1,6 +1,7 @@
 tensorflow
-django
 labelme 
+django
 opencv-python
 matplotlib
 albumentations
+ipykernel
