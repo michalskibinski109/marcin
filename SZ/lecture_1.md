@@ -23,7 +23,17 @@
 ## sieć
 
 - Sieć jest grafem ale nie jest tylko abstrakcja matematyczna np. sieć znajomych w miediach spolecznosciowych
-- siec zlozona - *rozklad wezlow jest potegowy*
+- siec zlozona - _rozklad wezlow jest potegowy_
+
+### siec zlozona
+
+- zbiór pewnych bytów (wierzchołków) _np. ludzie_
+- element dynamiki obiektu (stan nie jest zalezny bezposrednio od czasu a od poprzedniego stanu)
+- musza istniec powiazania miedzy bytami (krawedzie) _np. zwiazki miedzy ludzmi_
+
+#### przyklady
+
+- siec energetyczna, komputerowa, społecznosciowa, transportowa, polaczen lotniczych, drogowa, **słowo-sieć**
 
 ### narzedzia
 

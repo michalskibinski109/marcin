@@ -115,3 +115,4 @@ w(p) = 1, w(q) = 1 oznaczaja ich wartosci logiczne na podstawie aktualnego stanu
 
 1. do forumulowania i rozwiazywania zadan wspomagania uzytkownika systemu ekspertowego trzeba wyroznic elementarne wlasnosci (forrmuly) traktowane jako "przyczyny", "dzialania" oraz "efekty/skutku"
 2. formuly elementarne stanowia "klocki" z ktorych mozemy budowac opis
+   git add .
