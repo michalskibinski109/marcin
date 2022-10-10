@@ -39,5 +39,5 @@ w którym znajdują się 2 czujniki temperatury, grzejnik i klimatyzator
 
 ### funkcje logiczne
 
-- q1 = i1 & !i2
-- q2 = i2 & !i1
+- q1 = $ \neg i*{1} \wedge \neg i*{2}$
+- q2 = $ i*{1} \wedge i*{2}$
