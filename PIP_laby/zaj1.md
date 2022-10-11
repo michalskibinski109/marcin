@@ -27,11 +27,3 @@ potrzebujemy pare urzadzen
 1. stworzyc funkcje logiczne
 1. lepiej uzyc bramek do tych sterownikow
 1. **za kazdym i oraz q musi sie znajdowac definicja** np i1 - pierwszy czujnik w korytarzu
-
-# moj projekt
-
-i1 - termostat 1 - gdy temp <20 C
-i2 - termostat 1 - gdy temp >25 C
-Q1 - grzejnik 1
-|i1 |i2 | q1
-e
