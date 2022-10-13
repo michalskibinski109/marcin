@@ -23,3 +23,8 @@
 
 - na podstawie historycznych danych (trzeba miec jakies historyczne dane)
 - np analiza lotnisk, kto kiedy latal, gdzie itp.
+
+###
+
+- heurystyka - zastosowanie do konkretnego problemu
+- metaheurystyka - zastosowanie do wielu problemow (np. algorytm genetyczny, symulowane wyzarzanie)
