@@ -1,3 +1,18 @@
+- [Przyjeta definicja informacji](#przyjeta-definicja-informacji)
+- [przyjeta definicja wiedzy](#przyjeta-definicja-wiedzy)
+- [ksztaltowanie wiedzy i zaleznosci.](#ksztaltowanie-wiedzy-i-zaleznosci)
+- [wlasnoscj jakosci informacji](#wlasnoscj-jakosci-informacji)
+- [model audytu se - COBIT](#model-audytu-se---cobit)
+- [luka informacyjna](#luka-informacyjna)
+- [proces biznesowy](#proces-biznesowy)
+  - [rekrutacja na studia.](#rekrutacja-na-studia)
+- [klient jako najwazniejszy element procesu](#klient-jako-najwazniejszy-element-procesu)
+- [Podejscie tradycyjne vs procesowe](#podejscie-tradycyjne-vs-procesowe)
+  - [Organizacja zorientowana funkcyjnie](#organizacja-zorientowana-funkcyjnie)
+  - [Organizacja zorientowana procesowo](#organizacja-zorientowana-procesowo)
+- [Podejście funckjonalne](#podejście-funckjonalne)
+- [System informacyjny](#system-informacyjny)
+- [System informatyczny](#system-informatyczny)
 ## Przyjeta definicja informacji
 
 - informacja to dane zawarte w komunikacie, zinterpretowane przez odbiorce, majace dla niego znaczenie i wnoszace do jego swiadomosci element nowosci, czyli zmniejszajace niewiedze.
@@ -47,3 +62,46 @@ Wiedza powstaje z informacji, ktore sa dla odbiorcy istotne i zostaly zweryfikow
 ## klient jako najwazniejszy element procesu
 
 3. niestety w wiekszosci organizacji jest bardzo niewielu pracownikow (jesli wgl sa), ktorzy zrozumieja dzialanie w ich firmie procesu "od zamowiania do gotowki"
+
+## Podejscie tradycyjne vs procesowe
+### Organizacja zorientowana funkcyjnie
+- systemy wspomagaja nieefektywne procesy
+- wsrazanie rozwiazan IT w wycinkach procesu bez oceny ich wplywu na calosc procesu
+- wystepowanie wysp informacyjnych - systemow dostarczajacych wycinkowe dane
+- powielanie sie danych w roznych bazach co jest przyczyna:
+    - niespojnosci danych
+    - roznych definicji tych samych obiektow (sposobu interpretacji dziedziny wartosci, regol biznesowych)
+- kosztowne i dlugotrwale wprowadzanie zmian, bardziej zlozone utrzymywanie systemu
+
+
+### Organizacja zorientowana procesowo
+
+- Wdrożenie systemów najczęściej pwiązane z usprawnieniami procesów, co zwiększa ich efektywność
+
+- Rozwiązania IT są zintegrowane i wspierają cały proces
+
+- Dane rz wprowadzone są wykorzystywane na wszystkich etapch w procesie
+
+- Zapewniny wysoki poziom spójności informajci
+
+## Podejście funckjonalne
+
+W funkcjonalnym systemie zarządzania, wymienione działy lub służby - podlegają poszczególnym szefom pionów funckjonlanych
+<br><br>
+
+![image](https://docplayer.pl/docs-images/44/8521877/images/page_8.jpg)
+
+## System informacyjny
+## System informatyczny
+- Jest częścią systemu informacyjnego w którym zastosowano środki informatyczne
+
+- Jest to ta część systemu informacyjnego, który z punktu widzenia przyjętych kryteriów opłaca sięinformatyzować, czyli wyposażyć w komputerowe narzędzia
+
+
+- na system informatyczny sklada sie:
+    1. hardware (sprzet)
+    2. software 
+    3. telekomunikacja
+    4. ludzie obslugujacy (1 - 3)
+
+
