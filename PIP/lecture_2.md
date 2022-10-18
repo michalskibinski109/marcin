@@ -79,5 +79,24 @@ u -> [os]
  $$c\dot{y} =u + d(z - y)$$
  $$c\dot{y} + dy =u + dz $$
 
-## typowe algorytmy stabilizacji
-1. sterowanie dwupolozeniowe
+## typowe algorytmy stabilizacji1. sterowanie dwupolozeniowe
+- urzywanie pojedynczo  algorytmow (1 - 4) nie ma sensu
+- $\mathcal{E}$ - y*(t) - y(t)
+- $\tau$ - zmienna calkowania - zmienna lokalna
+- $k_p$ - wspolczynnik proporcjonalnosci (>0)
+   - np. $k_p = 1/2$ na kazdy stopien celcjusza podaj pol tabletki 
+1. dwupolozeniowe
+$$ u(t) =     \begin{cases}
+      U &  \mathcal{E}(t) > 0\\
+      0 &  \text{w przeciwnym przypadku}\\
+    \end{cases}    $$ 
+2. sterowanie proporcjonalne
+   $$ u(t) = k_p * \mathcal{E}(t) $$
+3. sterowanie calkujace
+$$u(t) =  \int_{0}^{t} \mathcal{E}(\tau)d\tau$$
+4. sterowanie rozniczkujace  
+$$k(t)  = k_d* \mathcal{E}(t) $$
+5. PID - sterowanie proporcjonalno calkujaco rozniczkujace
+   $$u(t) = k_p * \mathcal{E}(t) +  \int_{0}^{t} \mathcal{E}(\tau)d\tau +  k_d* \mathcal{E}(t) $$ 
+   rozniczkujemy zeby pozbyc sie calki
+   $$u(t) = k_p * \hat{\mathcal{E}(t)} +  k_i* \mathcal{E}(t) + k_d*\hat{\hat{\mathcal{E}(t)}}$$
