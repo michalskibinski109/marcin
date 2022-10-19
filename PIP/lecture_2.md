@@ -83,7 +83,7 @@ u -> [os]
 - urzywanie pojedynczo  algorytmow (1 - 4) nie ma sensu
 - $\mathcal{E}$ - y*(t) - y(t)
 - $\tau$ - zmienna calkowania - zmienna lokalna
-- $k_p$ - wspolczynnik proporcjonalnosci (>0)
+- $k_p$, $k_i$, $k_d$  - wspolczynnik proporcjonalnosci (>0)
    - np. $k_p = 1/2$ na kazdy stopien celcjusza podaj pol tabletki 
 1. dwupolozeniowe
 $$ u(t) =     \begin{cases}
@@ -99,4 +99,4 @@ $$k(t)  = k_d* \mathcal{E}(t) $$
 5. PID - sterowanie proporcjonalno calkujaco rozniczkujace
    $$u(t) = k_p * \mathcal{E}(t) +  \int_{0}^{t} \mathcal{E}(\tau)d\tau +  k_d* \mathcal{E}(t) $$ 
    rozniczkujemy zeby pozbyc sie calki
-   $$u(t) = k_p * \hat{\mathcal{E}(t)} +  k_i* \mathcal{E}(t) + k_d*\hat{\hat{\mathcal{E}(t)}}$$
+   $$u(t) = k_p * \hat{\mathcal{E}(t)} +  k_i* \mathcal{E}(t) + k_d*\hat{\hat{\mathcal{E}(t)}}P$$
